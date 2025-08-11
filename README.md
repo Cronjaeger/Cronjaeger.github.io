@@ -1,15 +1,19 @@
 # Cool and catchy title ✨
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mollis justo vel orci tincidunt gravida. Cras sed suscipit velit. Aenean in mattis augue. Quisque ullamcorper elementum urna ut ornare. Fusce ac convallis nunc. Maecenas placerat nulla dolor, eget cursus nunc imperdiet et. Pellentesque nibh neque, ultricies in semper et, lobortis porta sapien. Nullam neque sem, auctor eget velit a, posuere ultrices nulla. Nam tempus purus aliquet imperdiet tempor. Vestibulum est odio, viverra imperdiet dolor ac, vulputate fermentum libero. Suspendisse sollicitudin felis ut sem semper, dapibus lobortis mi ornare.
 
+
 # Personal details
  * Residence: Copenhagen
  * Nationality: Danish
- * Email: kitkat2.0@gmail.com
 
-## Languages
+## Languages spoken
  * Danish (Native)
  * German (Fluent)
  * English (Fluent)
+
+## Contact information
+ * kitkat2.0@gmail.com
+
 
 # Employment history
  * Parexell International
@@ -19,8 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mollis justo 
  * Solutions Engineer @ Cisco Systems Danmark ApS, Copenhagen
  * IT Systems Specialist, Novo Nordisk ApS, Copenhagen
 
-# Academic Profile
 
+# Academic Profile
 In 2014-2019 I was a DPhil Student at the Department of Statistics at the University of Oxford (no thesis was ever handed in). I worked in statistical genetics; in particular my research concerned the development of inference algorithms for coalescent-based models (with computational complexity low enough that they would be practically useful for large datasets). I find it to be a fascinating area of research since it ties together ideas from stochastic processes, population genetics, combinatorics, computer science, and modern statistics. This research was in collaboration with (and supervised by) Professors Jotun Hein and Paul Jenkins.
 
 ## Education
@@ -28,9 +32,8 @@ In 2014-2019 I was a DPhil Student at the Department of Statistics at the Univer
  * 2014 M.Sc. Mathematics, Technische Universität Berlin, (Thesis title: On the expected site frequency spectrum associated with Ξ-coalescents)
 
 ## Publications
-
  * Jochen Blath, Mathias Christensen Cronjäger, Bjarki Eldon, Matthias Hammer,
-The site-frequency spectrum associated with Ξ-coalescents,
+*The site-frequency spectrum associated with Ξ-coalescents*,
 Theoretical Population Biology,
 Volume 110,
 2016,
@@ -39,7 +42,7 @@ ISSN 0040-5809,
 [https://doi.org/10.1016/j.tpb.2016.04.002](https://doi.org/10.1016/j.tpb.2016.04.002).
 
  * Alejandra Avalos-Pacheco, Mathias C. Cronjäger, Paul A. Jenkins, Jotun Hein,
-An almost infinite sites model,
+*An almost infinite sites model*,
 Theoretical Population Biology,
 Volume 160,
 2024,
@@ -54,3 +57,8 @@ ISSN 0040-5809,
 
 ## Teaching
 * Linear Algebra, Insitute of Mathematics, TU Berlin
+* Real Analysis, Institute of Mathematics, TU Berlin
+* Class Tutor, Statistics, Department of Statistics, U. Oxford
+* College Tutor (Sarah Lawrence Programme, Statistics), Wadham College, U. Oxford
+* Statistics for Biosciences, CDT tutor, U. Oxford
+* Topics in Computational Biology, Dept. of Statistics, U. Oxford
