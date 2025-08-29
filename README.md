@@ -1,5 +1,34 @@
-# Cool and catchy title ✨
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mollis justo vel orci tincidunt gravida. Cras sed suscipit velit. Aenean in mattis augue. Quisque ullamcorper elementum urna ut ornare. Fusce ac convallis nunc. Maecenas placerat nulla dolor, eget cursus nunc imperdiet et. Pellentesque nibh neque, ultricies in semper et, lobortis porta sapien. Nullam neque sem, auctor eget velit a, posuere ultrices nulla. Nam tempus purus aliquet imperdiet tempor. Vestibulum est odio, viverra imperdiet dolor ac, vulputate fermentum libero. Suspendisse sollicitudin felis ut sem semper, dapibus lobortis mi ornare.
+> [!WARNING]
+> This page is udner construction
+
+# Passionate and extroverted nerd
+I have studied Mathematics in Berlin and researched computational statistical genetics
+in Oxford. Transitioning from academia to the corporate world, I joined Cisco as a
+Networking Engineer where I worked for four years before taking a job at Novo Nordisk
+doing IT infrastructure work on production critical Manufacturing Execution Systems.
+Colleagues often appreciate working with me due to my natural curiosity and enthusiasm
+for subjects that captivate me. This serves as a driving force behind my dedication and
+ability to tackle challenges. I am currently seeking a role where I can use both the
+analytical rigour from my academic background and the practical IT skills cultivated
+working as in my Engineering roles.
+One of my core strengths is conveying complex concepts through effective
+communication and teaching, fostering a collaborative and engaging work environment.
+Embracing my inner nerd, I find joy in diving deep into topics and geeking out.
+
+My commitment to staying at the forefront of technological advancements is reflected in
+my active engagement trends in Mathematics and AI/Machine Learning. I took the initiative to organize an after-work reading group, providing a platform for
+participants to present and discuss
+the latest AI methods when based in Amsterdam. See here for an example of what we
+built while playing around (a simple model from scratch for detecting Cisco’s logo).
+In summary, my journey from academic research to networking at Cisco highlights my
+adaptability, passion for learning, and commitment to fostering collaborative inclusive
+workspaces.
+
+* Machine learning / AI, Big Data, and large scale statistics
+* Programming (10+ yrs Python Experience), software development, and CI/CD workflows
+* Computer Networking and IT Orchestration (K8, Teraform, Ansible, etc.)
+* Linux, bash, git, etc.
+* Statistics, probability theory, discrete optimization, numerical methods.
 
 
 # Personal details
@@ -12,17 +41,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mollis justo 
  * English (Fluent)
 
 ## Contact information
+ * [linkedin.com/in/mathias-cronjager](linkedin.com/in/mathias-cronjager)
  * kitkat2.0@gmail.com
 
 
 # Employment history
- * Parexell International
- * Tutor (TU Berlin)
- * Teaching Roles at Oxford
- * Associate Solutions Engineer @ Cisco Systems, Amsterdam
- * Solutions Engineer @ Cisco Systems Danmark ApS, Copenhagen
- * IT Systems Specialist, Novo Nordisk ApS, Copenhagen
 
+| Period | Role | Employer | Skills |
+|--------|------|----------|--------|
+|2024-2025 | IT Systems Specialist | Novo Nordisk ApS | Systems Management, Stakeholder Management, Azure, Kubernetes, OpenShift, Linux, PAS-X, GxP |
+|2020-2024| System Engineer |Cisco Systems Danmark ApS | Customer relationship management, technical advice, service provider infrastructure, networking, python|
+|2019-2020| Associate Systems Engineer| Cisco Systems Netherlands | Presentation Skills, Network Certifications (CCNA, CCNP, DEVASOC), Product Portfolio Knowledge|
+|2015-2019| Various teaching roles | University of Oxford (Stats Dpt, Wadham College,  Biosciences DTC)| Teaching (Statistics, Mathematical Biology, Programming), Academic Supervision, Student Evaluation, Course & Exercise Design|
+|2012-2014| Department Tutor | Technical University of Berlin Department of Mathematics| Linear Algebra, Real Analysis, Teaching, Marking, Presenting|
+|2009-2010| Student Assistant (IT) | Parexel International GmbH, Berlin, Germany | Identity Management Systems, Bash and Perl scripting, LDAP|
 
 # Academic Profile
 In 2014-2019 I was a DPhil Student at the Department of Statistics at the University of Oxford (no thesis was ever handed in). I worked in statistical genetics; in particular my research concerned the development of inference algorithms for coalescent-based models (with computational complexity low enough that they would be practically useful for large datasets). I find it to be a fascinating area of research since it ties together ideas from stochastic processes, population genetics, combinatorics, computer science, and modern statistics. This research was in collaboration with (and supervised by) Professors Jotun Hein and Paul Jenkins.
