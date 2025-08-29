@@ -1,5 +1,6 @@
-> [!WARNING]
-> This page is udner construction
+>  ⚠️
+>  This page is udner construction
+>  ⚠️
 
 # Passionate and extroverted nerd
 I have studied Mathematics in Berlin and researched computational statistical genetics
